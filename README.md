@@ -122,6 +122,6 @@ Notes on the above Functional Requirements.
 ---
 ### Notes:
 
-Notes on General Items
+Looking very clean, man! I would try to include a few more commits going forward, as well as making sure you're clearing your redux state when you start a new survey :D
 
 ```
